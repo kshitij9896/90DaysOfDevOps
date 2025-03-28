@@ -1,0 +1,20 @@
+Week 4 Git and GitHub Challenge
+
+
+Task 1: Working with Pull Requests (PRs)
+
+
+F:\DevOpsStudy>git clone https://github.com/LondheShubham153/90DaysOfDevOps
+
+F:\DevOpsStudy\90DaysOfDevOps>
+
+
+Task 2: Initialize a Local Repository and Create a File
+
+
+F:\DevOpsStudy\90DaysOfDevOps>git checkout -b feature-branch
+Switched to a new branch 'feature-branch'
+
+==> Using Ubuntu Terminal
+
+
